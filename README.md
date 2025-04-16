@@ -66,6 +66,12 @@ Make sure your dataset structure as follows:
 !yolo task=detect mode=train model={HOME}/runs/detect/train/weights/best.pt data={dataset.location}/data.yaml epochs=500 imgsz=640 plots=True
 ```
 
+## Visualizations:
+> Uni-direction vs. Multi-direction.
+<div align="center">
+  <img src="./asserts/gameflow.gif" width="1200px"/>
+</div>
+
 ## Acknowledgement
 
 This repository builds upon the real-time object detection adapted from [Ultralytics](https://github.com/ultralytics/ultralytics)
