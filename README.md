@@ -77,7 +77,7 @@ Make sure your dataset structure as follows:
 This repository builds upon the real-time object detection adapted from [Ultralytics](https://github.com/ultralytics/ultralytics)
 
 ## Citations
-If you find [3MT](https://github.com/MrFahad/GameFlow.git) is useful in your research or applications, please consider giving us a star 🌟 and citing it.
+If you find [GameFlow](https://github.com/MrFahad/GameFlow.git) is useful in your research or applications, please consider giving us a star 🌟 and citing it.
 
 ```bibtex
 @misc{majeed2025_gameflow,
