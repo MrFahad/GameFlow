@@ -48,7 +48,7 @@ Make sure your dataset structure as follows:
 │   │   ├── val
 ```
 
-#### Training 
+#### 7. Training 
 ```bash
 !yolo task=detect mode=train model=yolov8x.pt data={dataset.location}/data.yaml epochs=500 imgsz=640 plots=True
 ```
@@ -61,12 +61,12 @@ Make sure your dataset structure as follows:
 !yolo task=detect mode=predict model={HOME}/runs/detect/train/weights/best.pt conf=0.25 source={dataset.location}/test/images save=True
 ```
 
-#### Finetune on your best.pt model
+#### 8. Finetune on your best.pt model
 ```bash
 !yolo task=detect mode=train model={HOME}/runs/detect/train/weights/best.pt data={dataset.location}/data.yaml epochs=500 imgsz=640 plots=True
 ```
 
-## Visualizations:
+#### 9. Visualizations:
 > Uni-direction vs. Multi-direction.
 <div align="center">
   <img src="./asserts/GameFlow.gif" width="1200px"/>
