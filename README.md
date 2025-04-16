@@ -69,7 +69,7 @@ Make sure your dataset structure as follows:
 ## Visualizations:
 > Uni-direction vs. Multi-direction.
 <div align="center">
-  <img src="./asserts/gameflow.gif" width="1200px"/>
+  <img src="./asserts/GameFlow.gif" width="1200px"/>
 </div>
 
 ## Acknowledgement
