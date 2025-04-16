@@ -10,13 +10,13 @@
 
 GameFlow is developed based on `torch==2.3.0` `pytorch-cuda==12.1` and `CUDA Version==12.6`. 
 
-#### 2.Clone Project 
+#### 2. Clone Project 
 
 ```bash
 git clone https://github.com/MrFahad/GameFlow.git
 ```
 
-#### 3.Create and activate a conda environment.
+#### 3. Create and activate a conda environment.
 ```bash
 conda create -n gameflow -y python=3.11
 conda activate gameflow
