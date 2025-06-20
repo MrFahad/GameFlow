@@ -82,7 +82,7 @@ If you find [GameFlow](https://github.com/MrFahad/GameFlow.git) is useful in you
 ```bibtex
 @misc{majeed2025_gameflow,
       title={Real-Time Analysis of Soccer Ball-Player Interactions using Graph Convolutional Networks for Enhanced Game Insights}, 
-      author={Fahad Majeed, Maria Nazir, Kamilla Swart-Arries, Marco Agus, Jens Schneider},
+      author={Fahad Majeed, Maria Nazir, Kamilla Swart, Marco Agus, Jens Schneider},
       year={2025},
 }
 ```
