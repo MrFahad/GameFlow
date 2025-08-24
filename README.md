@@ -80,9 +80,13 @@ This repository builds upon the real-time object detection adapted from [Ultraly
 If you find [GameFlow](https://github.com/MrFahad/GameFlow.git) is useful in your research or applications, please consider giving us a star 🌟 and citing it.
 
 ```bibtex
-@misc{majeed2025_gameflow,
-      title={Real-Time Analysis of Soccer Ball-Player Interactions using Graph Convolutional Networks for Enhanced Game Insights}, 
-      author={Fahad Majeed, Maria Nazir, Kamilla Swart, Marco Agus, Jens Schneider},
-      year={2025},
+@article{majeed2025real,
+  title={Real-time analysis of soccer ball--player interactions using graph convolutional networks for enhanced game insights},
+  author={Majeed, Fahad and Nazir, Maria and Swart, Kamilla and Agus, Marco and Schneider, Jens},
+  journal={Scientific Reports},
+  volume={15},
+  number={1},
+  pages={21859},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
-```
