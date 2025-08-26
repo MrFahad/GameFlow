@@ -49,7 +49,11 @@ Make sure your dataset structure as follows:
 ```
 
 #### Note:
-- [2025.08] We’ve open-sourced our dataset! To gain access, please complete the [NDA form](https://tinyurl.com/yc5t7tk2) confirming that the dataset will not be used for commercial purposes.
+This work utilizes two datasets:
+
+(1) SoccerNet – Available upon request from the original authors. For more information, please visit https://ivul.kaust.edu.sa/soccernet.
+
+(2) Soccer++ (Ours) – compiled from private recordings for academic fair use. To request access, please complete the [NDA form](https://tinyurl.com/yc5t7tk2) confirming that the dataset will not be used for commercial purposes.
 
 #### 7. Training 
 ```bash
