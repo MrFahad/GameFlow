@@ -93,3 +93,23 @@ If you find [GameFlow](https://github.com/MrFahad/GameFlow.git) is useful in you
   year={2025},
   publisher={Nature Publishing Group UK London}
 }
+
+@inproceedings{majeed2025rest,
+  title={ReST: High-Precision Soccer Player Tracking via Motion Vector Segmentation},
+  author={Majeed, Fahad and Al Thelaya, Khaled Ahmed Lutf and Gilal, Nauman Ullah and Swart-Arries, Kamilla and Agus, Marco and Schneider, Jens},
+  booktitle={Proceedings of the International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications},
+  volume={2},
+  pages={138--149},
+  year={2025},
+  organization={Science and Technology Publications, Lda}
+}
+
+@inproceedings{majeed2024mv,
+  title={Mv-soccer: motion-vector augmented instance segmentation for soccer player tracking},
+  author={Majeed, Fahad and Gilal, Nauman Ullah and Al-Thelaya, Khaled and Yang, Yin and Agus, Marco and Schneider, Jens},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3245--3255},
+  year={2024}
+}
+
+
