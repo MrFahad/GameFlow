@@ -48,13 +48,6 @@ Make sure your dataset structure as follows:
 │   │   ├── val
 ```
 
-#### Note:
-This work utilizes two datasets:
-
-(1) SoccerNet – Available upon request from the original authors. For more information, please visit https://ivul.kaust.edu.sa/soccernet.
-
-(2) Soccer++ (Ours) – compiled from private recordings for academic fair use. To request access, please complete the [NDA form](https://tinyurl.com/yc5t7tk2) confirming that the dataset will not be used for commercial purposes.
-
 #### 7. Training 
 ```bash
 !yolo task=detect mode=train model=yolov8x.pt data={dataset.location}/data.yaml epochs=500 imgsz=640 plots=True
