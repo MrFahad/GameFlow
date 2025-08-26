@@ -48,6 +48,9 @@ Make sure your dataset structure as follows:
 │   │   ├── val
 ```
 
+#### Note:
+- [2025.08] We’ve open-sourced our dataset! To gain access, please complete the [NDA form](https://tinyurl.com/yc5t7tk2) confirming that the dataset will not be used for commercial purposes.
+
 #### 7. Training 
 ```bash
 !yolo task=detect mode=train model=yolov8x.pt data={dataset.location}/data.yaml epochs=500 imgsz=640 plots=True
