@@ -1,4 +1,4 @@
-# <a><img src="asserts/nature.png" width="250" align="left"></a> [Real-Time Analysis of Soccer Ball-Player Interactions using Graph Convolutional Networks for Enhanced Game Insights](https://github.com/MrFahad/GameFlow/)
+# <a><img src="asserts/nature.png" width="200" align="left"></a> [Real-Time Analysis of Soccer Ball-Player Interactions using Graph Convolutional Networks for Enhanced Game Insights](https://github.com/MrFahad/GameFlow/)
 
 ![Python 3.11](https://img.shields.io/badge/python-3.11-g) ![pytorch 2.3.0](https://img.shields.io/badge/pytorch-2.3.0-blue.svg) [![docs](https://img.shields.io/badge/docs-latest-blue)](README.md)
 
